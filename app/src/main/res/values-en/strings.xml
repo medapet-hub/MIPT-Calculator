@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App -->
+    <string name="app_name">Calculator</string>
+    <string name="app_mode_standard">Standard</string>
+
+    <!-- Top bar -->
+    <string name="menu">Menu</string>
+    <string name="pop_out">Open in separate window</string>
+
+    <!-- History -->
+    <string name="history_title">History</string>
+    <string name="history_empty">No history yet</string>
+    <string name="history_clear">Clear history</string>
+
+    <!-- Memory -->
+    <string name="mem_clear">MC</string>
+    <string name="mem_recall">MR</string>
+    <string name="mem_add">M+</string>
+    <string name="mem_subtract">M−</string>
+    <string name="mem_store">MS</string>
+
+    <!-- Buttons -->
+    <string name="btn_percent">%</string>
+    <string name="btn_ce">CE</string>
+    <string name="btn_c">C</string>
+    <string name="btn_backspace">⌫</string>
+    <string name="btn_reciprocal">1/x</string>
+    <string name="btn_square">x²</string>
+    <string name="btn_sqrt">√x</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_toggle_sign">+/−</string>
+    <string name="btn_decimal">.</string>
+    <string name="btn_equals">=</string>
+
+    <!-- Errors -->
+    <string name="error_division_by_zero">Cannot divide by zero</string>
+    <string name="error_invalid_input">Invalid input</string>
+</resources>
